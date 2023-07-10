@@ -1,0 +1,31 @@
+C:\Users\Cengiz Atilla\source\repos\promosyonTakip\promosyonTakip.UI.Musteri\bin\Debug\promosyonTakip.UI.Musteri.exe.config
+C:\Users\Cengiz Atilla\source\repos\promosyonTakip\promosyonTakip.UI.Musteri\bin\Debug\promosyonTakip.UI.Musteri.exe
+C:\Users\Cengiz Atilla\source\repos\promosyonTakip\promosyonTakip.UI.Musteri\bin\Debug\promosyonTakip.UI.Musteri.pdb
+C:\Users\Cengiz Atilla\source\repos\promosyonTakip\promosyonTakip.UI.Musteri\bin\Debug\promosyonTakip.Core.dll
+C:\Users\Cengiz Atilla\source\repos\promosyonTakip\promosyonTakip.UI.Musteri\bin\Debug\promosyonTakip.Core.pdb
+C:\Users\Cengiz Atilla\source\repos\promosyonTakip\promosyonTakip.UI.Musteri\obj\Debug\promosyonTakip.UI.Musteri.csprojAssemblyReference.cache
+C:\Users\Cengiz Atilla\source\repos\promosyonTakip\promosyonTakip.UI.Musteri\obj\Debug\promosyonTakip.UI.Musteri.anaEkran.resources
+C:\Users\Cengiz Atilla\source\repos\promosyonTakip\promosyonTakip.UI.Musteri\obj\Debug\promosyonTakip.UI.Musteri.Form1.resources
+C:\Users\Cengiz Atilla\source\repos\promosyonTakip\promosyonTakip.UI.Musteri\obj\Debug\promosyonTakip.UI.Musteri.Properties.Resources.resources
+C:\Users\Cengiz Atilla\source\repos\promosyonTakip\promosyonTakip.UI.Musteri\obj\Debug\promosyonTakip.UI.Musteri.csproj.GenerateResource.cache
+C:\Users\Cengiz Atilla\source\repos\promosyonTakip\promosyonTakip.UI.Musteri\obj\Debug\promosyonTakip.UI.Musteri.csproj.CoreCompileInputs.cache
+C:\Users\Cengiz Atilla\source\repos\promosyonTakip\promosyonTakip.UI.Musteri\obj\Debug\promosyonTakip.UI.Musteri.csproj.CopyComplete
+C:\Users\Cengiz Atilla\source\repos\promosyonTakip\promosyonTakip.UI.Musteri\obj\Debug\promosyonTakip.UI.Musteri.exe
+C:\Users\Cengiz Atilla\source\repos\promosyonTakip\promosyonTakip.UI.Musteri\obj\Debug\promosyonTakip.UI.Musteri.pdb
+C:\Users\Cengiz Atilla\source\repos\promosyonTakip\promosyonTakip.UI.Musteri\obj\Debug\promosyonTakip.UI.Musteri.hediyeGoster.resources
+C:\Users\basal\OneDrive\Desktop\promosyonTakip\promosyonTakip\promosyonTakip.UI.Musteri\bin\Debug\promosyonTakip.UI.Musteri.exe.config
+C:\Users\basal\OneDrive\Desktop\promosyonTakip\promosyonTakip\promosyonTakip.UI.Musteri\bin\Debug\promosyonTakip.UI.Musteri.exe
+C:\Users\basal\OneDrive\Desktop\promosyonTakip\promosyonTakip\promosyonTakip.UI.Musteri\bin\Debug\promosyonTakip.UI.Musteri.pdb
+C:\Users\basal\OneDrive\Desktop\promosyonTakip\promosyonTakip\promosyonTakip.UI.Musteri\bin\Debug\promosyonTakip.Core.dll
+C:\Users\basal\OneDrive\Desktop\promosyonTakip\promosyonTakip\promosyonTakip.UI.Musteri\bin\Debug\promosyonTakip.Core.pdb
+C:\Users\basal\OneDrive\Desktop\promosyonTakip\promosyonTakip\promosyonTakip.UI.Musteri\obj\Debug\promosyonTakip.UI.Musteri.csproj.AssemblyReference.cache
+C:\Users\basal\OneDrive\Desktop\promosyonTakip\promosyonTakip\promosyonTakip.UI.Musteri\obj\Debug\promosyonTakip.UI.Musteri.csproj.SuggestedBindingRedirects.cache
+C:\Users\basal\OneDrive\Desktop\promosyonTakip\promosyonTakip\promosyonTakip.UI.Musteri\obj\Debug\promosyonTakip.UI.Musteri.anaEkran.resources
+C:\Users\basal\OneDrive\Desktop\promosyonTakip\promosyonTakip\promosyonTakip.UI.Musteri\obj\Debug\promosyonTakip.UI.Musteri.Form1.resources
+C:\Users\basal\OneDrive\Desktop\promosyonTakip\promosyonTakip\promosyonTakip.UI.Musteri\obj\Debug\promosyonTakip.UI.Musteri.hediyeGoster.resources
+C:\Users\basal\OneDrive\Desktop\promosyonTakip\promosyonTakip\promosyonTakip.UI.Musteri\obj\Debug\promosyonTakip.UI.Musteri.Properties.Resources.resources
+C:\Users\basal\OneDrive\Desktop\promosyonTakip\promosyonTakip\promosyonTakip.UI.Musteri\obj\Debug\promosyonTakip.UI.Musteri.csproj.GenerateResource.cache
+C:\Users\basal\OneDrive\Desktop\promosyonTakip\promosyonTakip\promosyonTakip.UI.Musteri\obj\Debug\promosyonTakip.UI.Musteri.csproj.CoreCompileInputs.cache
+C:\Users\basal\OneDrive\Desktop\promosyonTakip\promosyonTakip\promosyonTakip.UI.Musteri\obj\Debug\promosyonTakip.UI.Musteri.csproj.CopyComplete
+C:\Users\basal\OneDrive\Desktop\promosyonTakip\promosyonTakip\promosyonTakip.UI.Musteri\obj\Debug\promosyonTakip.UI.Musteri.exe
+C:\Users\basal\OneDrive\Desktop\promosyonTakip\promosyonTakip\promosyonTakip.UI.Musteri\obj\Debug\promosyonTakip.UI.Musteri.pdb

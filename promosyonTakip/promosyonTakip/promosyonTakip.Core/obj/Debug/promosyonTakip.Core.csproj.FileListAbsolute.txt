@@ -1,0 +1,12 @@
+C:\Users\Cengiz Atilla\source\repos\promosyonTakip\promosyonTakip.Core\bin\Debug\promosyonTakip.Core.dll
+C:\Users\Cengiz Atilla\source\repos\promosyonTakip\promosyonTakip.Core\bin\Debug\promosyonTakip.Core.pdb
+C:\Users\Cengiz Atilla\source\repos\promosyonTakip\promosyonTakip.Core\obj\Debug\promosyonTakip.Core.csprojAssemblyReference.cache
+C:\Users\Cengiz Atilla\source\repos\promosyonTakip\promosyonTakip.Core\obj\Debug\promosyonTakip.Core.csproj.CoreCompileInputs.cache
+C:\Users\Cengiz Atilla\source\repos\promosyonTakip\promosyonTakip.Core\obj\Debug\promosyonTakip.Core.dll
+C:\Users\Cengiz Atilla\source\repos\promosyonTakip\promosyonTakip.Core\obj\Debug\promosyonTakip.Core.pdb
+C:\Users\basal\OneDrive\Desktop\promosyonTakip\promosyonTakip\promosyonTakip.Core\bin\Debug\promosyonTakip.Core.dll
+C:\Users\basal\OneDrive\Desktop\promosyonTakip\promosyonTakip\promosyonTakip.Core\bin\Debug\promosyonTakip.Core.pdb
+C:\Users\basal\OneDrive\Desktop\promosyonTakip\promosyonTakip\promosyonTakip.Core\obj\Debug\promosyonTakip.Core.csproj.AssemblyReference.cache
+C:\Users\basal\OneDrive\Desktop\promosyonTakip\promosyonTakip\promosyonTakip.Core\obj\Debug\promosyonTakip.Core.csproj.CoreCompileInputs.cache
+C:\Users\basal\OneDrive\Desktop\promosyonTakip\promosyonTakip\promosyonTakip.Core\obj\Debug\promosyonTakip.Core.dll
+C:\Users\basal\OneDrive\Desktop\promosyonTakip\promosyonTakip\promosyonTakip.Core\obj\Debug\promosyonTakip.Core.pdb
